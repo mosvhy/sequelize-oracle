@@ -26,14 +26,18 @@
     {
       "name": "Martin Kunft",
       "email": "martin.kunft@gmail.com"
+    },
+    {
+      "name": "Muhamad Sofyan",
+      "email": "m.sofyan420@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mkunft/sequelize-oracle.git"
+    "url": "https://github.com/mosvhy/sequelize-oracle.git"
   },
   "bugs": {
-    "url": "https://github.com/lebretr/sequelize-oracle/issues"
+    "url": "https://github.com/mosvhy/sequelize-oracle/issues"
   },
   "dependencies": {
     "async": "^2.3.0",
